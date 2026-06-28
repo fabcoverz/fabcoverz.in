@@ -1,0 +1,2 @@
+[functions.verify-razorpay-payment]
+verify_jwt = false

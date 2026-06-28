@@ -1,0 +1,2 @@
+[functions.nimbuspost-track]
+verify_jwt = false

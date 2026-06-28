@@ -1,0 +1,11 @@
+# FabCoverz robots.txt
+User-agent: *
+Allow: /
+
+# Block admin and live dashboard from indexing
+Disallow: /admin
+Disallow: /live
+
+# Sitemap locations
+Sitemap: https://www.fabcoverz.store/sitemap.xml
+Sitemap: https://www.fabcoverz.in/sitemap.xml

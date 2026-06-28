@@ -1,0 +1,2 @@
+[functions.nimbuspost-create-shipment]
+verify_jwt = false
